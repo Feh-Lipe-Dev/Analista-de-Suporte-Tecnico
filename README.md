@@ -1,4 +1,4 @@
-# Analista-de-Suporte-Tecnico
+# Analista de Suporte Tecnico
 Artigos e estudos sobre a área de atendimento ao cliente com Suporte Técnico
 
 ## ARTIGOS
@@ -13,3 +13,5 @@ Artigos e estudos sobre a área de atendimento ao cliente com Suporte Técnico
 
 ## LÓGICA DE PROGRAMAÇÃO
 - [JAVA](https://github.com/Feh-Lipe-Dev/Analista-de-Suporte-Tecnico/tree/main/JAVA/src/main)
+- [JAVASCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/JAVASCRIPT)
+- [TYPESCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/TYPESCRIPT)
