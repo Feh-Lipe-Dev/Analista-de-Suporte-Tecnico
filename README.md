@@ -3,16 +3,26 @@ Artigos e estudos sobre a área de atendimento ao cliente com Suporte Técnico
 
 ## PUBLICAÇÕES
 - O papel e o lugar do analista de suporte técnico.
-Acesse no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7465240689698553856/) ou [Github](https://github.com/Feh-Lipe-Dev/Analista-de-Suporte-Tecnico/blob/main/analsita-papel_lugar.md).
+Acesse no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7465240689698553856/) ou [Github](/Publicações/analsita-papel_lugar.md).
 
 [Para mais publicações...](https://github.com/Feh-Lipe-Dev)
 
 ## API: integrações e planos de testes
-- Plano e Checklist de Testes de API. Testes de requisições HTTP realizadas com a ferramenta _Postman_, na API pública JSONPlaceholder. Acesse no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7467598039168405506/) ou [Github](https://github.com/Feh-Lipe-Dev/Analista-de-Suporte-Tecnico/blob/main/POSTMAN/README.md).
+
+### Plano e Checklist de Testes de API
+
+Testes de requisições HTTP realizadas com a ferramenta _Postman_, na API pública JSONPlaceholder.  
+Acesse pelo [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7467598039168405506/) ou [Github](/POSTMAN/).
  
-- Pokédex TypeScript Lite. Aplicação back-end simples em Node.js com TypeScript, que consulta dados de Pokémon na PokeAPI e organiza os resultados em um catálogo local. <br>Acesse no [Github](https://github.com/Feh-Lipe-Dev/pokedex-typescript-lite).
+### Pokédex TypeScript Lite
+
+Aplicação back-end simples em Node.js com TypeScript, que consulta dados de Pokémon na PokeAPI e organiza os resultados em um catálogo local. <br>Acesse o repositório: [PokedexTS](https://github.com/Feh-Lipe-Dev/pokedex-typescript-lite).
+
+## SQL
+
+[PostgreSQL](/SQL/PostgreSQL/)
 
 ## LÓGICA DE PROGRAMAÇÃO
-- [JAVA](https://github.com/Feh-Lipe-Dev/Analista-de-Suporte-Tecnico/tree/main/JAVA/src/main)
+- [JAVA](/JAVA/)
 - [JAVASCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/JAVASCRIPT)
 - [TYPESCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/TYPESCRIPT)
