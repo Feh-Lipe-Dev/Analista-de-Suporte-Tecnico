@@ -4,7 +4,7 @@ Comandos DDL são utilizados para definir a estrutura do banco de dados, incluin
 
 **BD CRIADO NO pgAdmin**
 
-<img src="./img/create-database.png" width="650" height="350">
+<img src="/SQL/PostgreSQL/img/create-database.png" width="650" height="350">
 
 ## Criação de Tabelas (DDL - Data Definition Language)
 
@@ -71,7 +71,7 @@ CREATE TABLE tb_livro(
 );
 ~~~~
 
-<img src="./img/tb-livro.png" width="600" height="300">
+<img src="/SQL/PostgreSQL/img/tb-livro.png" width="600" height="300">
 
 Criação da Tabela (DDL) dos itens do pedido:
 

@@ -16,4 +16,4 @@ Saída esperada: A tabela de clientes agora exibe uma nova coluna ativo, preench
 ALTER TABLE tb_livro ADD COLUMN ativo BOOLEAN DEFAULT true;
 ~~~~
 
-<img src="./img/soft-delete-alter.png" width="700" height="200">
+<img src="/SQL/PostgreSQL/img/soft-delete-alter.png" width="700" height="200">

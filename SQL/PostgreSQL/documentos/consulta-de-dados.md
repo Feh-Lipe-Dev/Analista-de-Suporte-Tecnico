@@ -55,7 +55,7 @@ ROUND(AVG(tb_livro.preco), 2) AS media_estoque FROM tb_livro;
 
 Função e saída: Utiliza as funções agregadoras SUM (Soma) e AVG (Média) combinadas com a função ROUND para limitar o resultado a 2 casas decimais.
 
-<img src="./img/total-media-estoque.png" width="520" height="220">
+<img src="/SQL/PostgreSQL/img/total-media-estoque.png" width="520" height="220">
 
 ## Consulta Relacional com Junção de Tabelas - JOINs
 
@@ -70,7 +70,7 @@ FROM tb_cliente INNER JOIN tb_pedido ON tb_cliente.id = tb_pedido.fk_cliente;
 
 Realiza um INNER JOIN para cruzar dados de pedidos e clientes, exibindo quem realizou cada compra e criando apelidos (AS) para melhor legibilidade das colunas. SAÍDA:
 
-<img src="./img/inner-join.png" width="550" height="250">
+<img src="/SQL/PostgreSQL/img/inner-join.png" width="550" height="250">
 
 ## Consultas Complexas com Cálculos e Ordenação (DQL)
 
@@ -82,11 +82,8 @@ INNER JOIN tb_itens_pedido ON tb_livro.id = tb_itens_pedido.fk_livro;
 ~~~~
 
 Função: Junta a tabela de livros com seus itens correspondentes e faz uma operação aritmética (preco * quantidade) em tempo de execução para gerar o subtotal de cada item.  
-Saída esperada (Tabela):
 
-| numPedido | livro_id | titulo | preco | quantidade | total |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 2 | O Senhor dos anéis: as duas torres | 89.98 | 2 | 179.96 || 3 | 3 | O Senhor dos anéis: o retorno do rei | 99.99 | 3 | 299.97 || 2 | 4 | Box As crônicas de Nárnia... | 253.16 | 1 | 253.16 |
+<img src="/SQL/PostgreSQL/img/itens-pedido-total.png">
 
 ~~~~sql
 SELECT tb_livro.preco, tb_itens_pedido.fk_pedido AS num_Pedido,

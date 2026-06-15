@@ -21,7 +21,7 @@ INSERT INTO tb_cliente (nome, email, senha) VALUES
 ('Fulaninha', 'makeful@ig.com.br', '54/rg4*74vD');
 ~~~~
 
-<img src="./img/tb_cliente-insert.png" width="550" height="250">  
+<img src="/SQL/PostgreSQL/img/tb_cliente-insert.png" width="550" height="250">  
 
 ---
   
@@ -35,7 +35,7 @@ SELECT * FROM tb_livro WHERE tb_livro.id = 4;
 
 Função e saída: Aplica um desconto de 15% no preço do livro com id = 4 (Box As crônicas de Nárnia), e seleção com filtro para exibir o novo preço.
 
-<img src="./img/update.png" width="550" height="250">
+<img src="/SQL/PostgreSQL/img/update.png" width="550" height="250">
 
 ---
 

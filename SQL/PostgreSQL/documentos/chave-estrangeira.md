@@ -51,7 +51,7 @@ CREATE TABLE tb_itens_pedido(
 );
 ~~~~
 
-<img src="./img/foreign-key.png" width="550" height="250">
+<img src="/SQL/PostgreSQL/img/foreign-key.png" width="550" height="250">
 
 
 **Detalhes da chave primária e estrangeiras de tb_itens_pedido:**
