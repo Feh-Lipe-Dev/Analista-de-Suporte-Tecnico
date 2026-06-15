@@ -95,4 +95,4 @@ ORDER BY menor_maior ASC;
 
 Função: Similar à anterior, mas utiliza a cláusula ORDER BY ... ASC para ordenar o resultado final com base no valor calculado (do menor para o maior total).  
 
-<img src="./img/menor-maior.png" width="550" height="250">
+<img src="/SQL/PostgreSQL/img/menor-maior.png" width="550" height="250">
