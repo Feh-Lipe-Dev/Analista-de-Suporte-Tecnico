@@ -1,3 +1,6 @@
+
+![Imagem de analista usando o postman](/imagens/investigação-incidentes.png)
+
 Estou descobrindo (e aprendendo) que conhecimentos sobre APIs vão além do desenvolvimento de aplicações, mas também são super necessários nas investigações dos incidentes que podem ocorrer. Incidentes que primeiro chegam na equipe de suporte.
 
 Imagine um cenário onde um pedido é criado com sucesso, mas não aparece no sistema responsável pelo faturamento. A causa desse problema pode estar na comunicação entre essas aplicações, e por mais de um motivo: integração, requisição malformada, erro de autenticação ou até mesmo uma resposta inesperada da API.
