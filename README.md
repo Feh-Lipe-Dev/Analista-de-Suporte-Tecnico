@@ -3,7 +3,8 @@ Artigos e estudos sobre a área de atendimento ao cliente com Suporte Técnico
 
 ## PUBLICAÇÕES
 - O papel e o lugar do analista de suporte técnico.
-Acesse no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7465240689698553856/) ou [Github](/Publicações/analsita-papel_lugar.md).
+Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7465240689698553856/) ou [Github](/Publicações/analsita-papel_lugar.md).
+- Investigação de Incidentes. Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7473403285664645120/) ou [Github](Publicações/investigacoes-de-incidentes.md).
 
 [Para mais publicações...](https://github.com/Feh-Lipe-Dev)
 
@@ -23,6 +24,6 @@ Aplicação back-end simples em Node.js com TypeScript, que consulta dados de Po
 [PostgreSQL](/SQL/PostgreSQL/)
 
 ## LÓGICA DE PROGRAMAÇÃO
-- [JAVA](/JAVA/)
-- [JAVASCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/JAVASCRIPT)
-- [TYPESCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/TYPESCRIPT)
+-- [JAVA](/JAVA/)  
+-- [JAVASCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/JAVASCRIPT)  
+-- [TYPESCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/TYPESCRIPT)
