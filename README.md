@@ -22,9 +22,12 @@ Aplicação back-end simples em Node.js com TypeScript, que consulta dados de Po
 ## SQL, GIT E GITHUB
 
 [PostgreSQL](/SQL/PostgreSQL/)
+
 [Git/Github](https://github.com/Feh-Lipe-Dev/aula-git-github)
 
 ## LÓGICA DE PROGRAMAÇÃO
-[JAVA](/JAVA/)  
-[JAVASCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/JAVASCRIPT)  
+[JAVA](/JAVA/)
+
+[JAVASCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/JAVASCRIPT)
+
 [TYPESCRIPT](https://github.com/Feh-Lipe-Dev/senai-sc_tec-node_js/tree/main/TYPESCRIPT)
