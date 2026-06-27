@@ -3,8 +3,9 @@ Artigos e estudos sobre a área de atendimento ao cliente com Suporte Técnico
 
 ## PUBLICAÇÕES
 - O papel e o lugar do analista de suporte técnico.
-Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7465240689698553856/) ou [Github](/Publicações/analsita-papel_lugar.md).
-- Investigação de Incidentes. Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7473403285664645120/) ou [Github](Publicações/investigacoes-de-incidentes.md).
+Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7465240689698553856/) ou [aqui](/Publicações/analsita-papel_lugar.md).
+- Investigação de Incidentes. Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7473403285664645120/) ou [aqui](/Publicações/investigacoes-de-incidentes.md).
+- Níveis de suporte. Leia no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7475900203737411584/) ou [aqui](/Publicações/niveis-de-suporte.md) 
 
 [Para mais publicações...](https://github.com/Feh-Lipe-Dev)
 
