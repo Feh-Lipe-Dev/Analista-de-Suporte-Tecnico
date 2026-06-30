@@ -330,3 +330,5 @@ Saída esperada: A tabela de clientes agora exibe uma nova coluna ativo, preench
 -- incluindo a mesma lógica de exclusão lógica.
 ALTER TABLE tb_livro ADD COLUMN ativo BOOLEAN DEFAULT true;
 ~~~~
+
+## JOINS [ir para](/SQL/PostgreSQL/documentos/joins-interseccoes.md)
